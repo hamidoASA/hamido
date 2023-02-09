@@ -1,1 +1,19 @@
 hamid_code.txt
+
+Team : 4 dovlopers
+Ahmed : pc ----> Products
+Hamid : pc ----> Order
+Ali   : pc ----> Dashboard
+
+
+   Issues :
+       - merge
+       -Issue Tracking 
+       -Versions
+
+       ------> developers ---> version control System VCS
+       ------> linus : limux ---> 10m ----> VES : git 
+       start new git project -----> git init
+       track filles          -----> git add file_name .
+       take backup        --------> git commit -m "------"
+       ylkdnfslk
